@@ -73,7 +73,7 @@ No external libraries are used, making it ideal for beginners to understand the 
 
 You can download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_4Digit_7Segment_MultiFormat_Temperature_Display.ino)
+[Download Arduino Code](Arduino_4_Digit_7_Segment_Multi_Format_Temperature_Display.ino)
 
 Or open the `.ino` file directly inside this repository.
 
